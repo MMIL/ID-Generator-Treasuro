@@ -1,0 +1,28 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  /*border: 2px solid black;*/
+  display: flex;
+  flex-flow: wrap;
+  justify-content: space-evenly;
+
+}
+
+.ticket{
+  border: 2px solid black;
+  margin: 3px;
+  width: 180px;
+}
+
+.header {
+  width: 100%;
+}
+
+.id {
+  margin: 0;
+  padding: 10px;
+}
